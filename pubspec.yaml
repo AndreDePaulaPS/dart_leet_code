@@ -1,0 +1,10 @@
+name: meu_projeto
+description: Uma breve descrição do que o seu projeto faz.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '^3.12.0'
+
+dev_dependencies:
+  test: ^1.24.0

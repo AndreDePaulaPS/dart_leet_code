@@ -42,7 +42,7 @@ Cada desafio é estudado seguindo o mesmo processo:
 | 19 | 3Sum | Ordenação e two pointers | ⬜ Planejado |
 | 20 | Container With Most Water | Two pointers e decisão gulosa | ⬜ Planejado |
 
-**Progresso atual:** 6 de 20 desafios concluídos — desafio 07 em andamento.
+**Progresso atual:** 11 de 20 desafios concluídos — desafio 12 em andamento.
 
 ## Competências exercitadas
 

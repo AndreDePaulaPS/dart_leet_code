@@ -27,11 +27,11 @@ Cada desafio é estudado seguindo o mesmo processo:
 | 04 | Majority Element | Frequência e análise de tempo/espaço | ✅ Concluído |
 | 05 | Best Time to Buy and Sell Stock | Estado mínimo e otimização de espaço | ✅ Concluído |
 | 06 | Valid Palindrome | Two pointers | ✅ Concluído |
-| 07 | Move Zeroes | Operações in-place e controle de índices | 🟡 Em andamento |
-| 08 | Remove Duplicates from Sorted Array | Two pointers e modificação in-place | ⬜ Planejado |
-| 09 | Merge Sorted Array | Two pointers e merge ordenado | ⬜ Planejado |
-| 10 | Valid Parentheses | Stack | ⬜ Planejado |
-| 11 | Binary Search | Busca binária | ⬜ Planejado |
+| 07 | Move Zeroes | Operações in-place e controle de índices | ✅ Concluído |
+| 08 | Remove Duplicates from Sorted Array | Two pointers e modificação in-place | ✅ Concluído |
+| 09 | Merge Sorted Array | Two pointers e merge ordenado | ✅ Concluído |
+| 10 | Valid Parentheses | Stack | ✅ Concluído |
+| 11 | Binary Search | Busca binária | ✅ Concluído |
 | 12 | Search Insert Position | Busca binária e limites | ⬜ Planejado |
 | 13 | Squares of a Sorted Array | Two pointers e ordenação implícita | ⬜ Planejado |
 | 14 | Single Number | XOR e propriedades bitwise | ⬜ Planejado |
